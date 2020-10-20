@@ -1,11 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php include('inc/header.php'); ?> 
+<title>Title</title>
+    </head> 
+<body> 
+ <!-- CODE HERE   -->
+    <div class="container">
+        <?php include('inc/nav.php') ?>  <!-- Navigation -->
+
+    <!-- CODE HERE....  -->
+     
+
+    </div>  
+    <!-- .container  -->
+
+
+<!-- ============================ FOOTER  -->
+<?php include('inc/footer.php'); ?>
